@@ -1,0 +1,8 @@
+
+1. Ejecutar el script agregando como primera línea SET DATEFORMAT YMD o dará errores.
+
+2. Agregar la siguiente secuencia a la base de datos en una nueva consulta SQL:
+
+    CREATE SEQUENCE Contador  
+    START WITH 200  
+    INCREMENT BY 1 
