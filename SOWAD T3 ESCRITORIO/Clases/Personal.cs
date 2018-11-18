@@ -13,5 +13,7 @@ namespace SOWAD_T3_ESCRITORIO.Clases
         public Usuario usuario { get; set; }
         public string correoCorporativo { get; set; }
         public bool personalActivo { get; set; }
+        public string dni { get; set; }
+
     }
 }

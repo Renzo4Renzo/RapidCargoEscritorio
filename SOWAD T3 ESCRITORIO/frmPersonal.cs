@@ -88,10 +88,23 @@ namespace SOWAD_T3_ESCRITORIO
         private void personal_dgv_listarPersonal_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
             int idPersonal = (int)personal_dgv_listarPersonal.Rows[e.RowIndex].Cells[0].Value;
+            //Personal personal = new Personal();
+            //personal.persona = new Persona();
+            //personal.idPersonal = idPersonal;
+            //personal.persona.nombres = personal_dgv_listarPersonal.Rows[e.RowIndex].Cells[1].Value.ToString();
+            //personal.persona.apellidos = personal_dgv_listarPersonal.Rows[e.RowIndex].Cells[2].Value.ToString();
+            //personal.persona.telefono = personal_dgv_listarPersonal.Rows[e.RowIndex].Cells[3].Value.ToString();
+            //personal.usuario = new Usuario();
+            //personal.usuario.nombreUsuario = personal_dgv_listarPersonal.Rows[e.RowIndex].Cells[4].Value.ToString();
+            //personal.usuario.contrasena = personal_dgv_listarPersonal.Rows[e.RowIndex].Cells[5].Value.ToString();
+            //personal.usuario.tipoUsuario = new TipoUsuario();
+            //personal.usuario.tipoUsuario.descripcion = personal_dgv_listarPersonal.Rows[e.RowIndex].Cells[6].Value.ToString();
+
+
             frmValidarEliminarPersonal validarEliminarPersonal = new frmValidarEliminarPersonal(idPersonal);
             validarEliminarPersonal.Tag = this;
             validarEliminarPersonal.Show(this);
-
+            
         }
     }
 }

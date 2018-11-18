@@ -66,5 +66,19 @@ namespace SOWAD_T3_ESCRITORIO
             }
             Close();
         }
+
+        private void btnEditar_Click(object sender, EventArgs e)
+        {
+            if (validarEliminarPersonal_tb_ingresarContrasena.Text == Global.contrasena)
+            {
+                frmEditarPersonal frmEditar = new frmEditarPersonal(idPersonal);
+                frmEditar.ShowDialog();
+            }
+            else
+            {
+                MessageBox.Show("Las contraseñas no coinciden");
+            }
+
+        }
     }
 }

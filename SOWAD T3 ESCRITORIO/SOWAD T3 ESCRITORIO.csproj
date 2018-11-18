@@ -95,6 +95,12 @@
     <Compile Include="frmCrearVehiculo.Designer.cs">
       <DependentUpon>frmCrearVehiculo.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmEditarPersonal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditarPersonal.Designer.cs">
+      <DependentUpon>frmEditarPersonal.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -162,6 +168,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmCrearVehiculo.resx">
       <DependentUpon>frmCrearVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarPersonal.resx">
+      <DependentUpon>frmEditarPersonal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>

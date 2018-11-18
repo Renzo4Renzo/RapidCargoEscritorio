@@ -213,3 +213,31 @@ C:\Users\Renzo\Desktop\RapidCargoT3_Programas_Refactorizado\RapidCargoT3Esc_Ref\
 C:\Users\Renzo\Desktop\RapidCargoT3_Programas_Refactorizado\RapidCargoT3Esc_Ref\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD T3 ESCRITORIO.csproj.CopyComplete
 C:\Users\Renzo\Desktop\RapidCargoT3_Programas_Refactorizado\RapidCargoT3Esc_Ref\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD T3 ESCRITORIO.exe
 C:\Users\Renzo\Desktop\RapidCargoT3_Programas_Refactorizado\RapidCargoT3Esc_Ref\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD T3 ESCRITORIO.pdb
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\bin\Debug\SOWAD T3 ESCRITORIO.exe.config
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\bin\Debug\SOWAD T3 ESCRITORIO.exe
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\bin\Debug\SOWAD T3 ESCRITORIO.pdb
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\bin\Debug\itextsharp.dll
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\bin\Debug\itextsharp.xml
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD T3 ESCRITORIO.csprojAssemblyReference.cache
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD_T3_ESCRITORIO.frmChart.resources
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD_T3_ESCRITORIO.frmCrearPersonal.resources
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD_T3_ESCRITORIO.frmCrearRuta.resources
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD_T3_ESCRITORIO.frmCrearVehiculo.resources
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD_T3_ESCRITORIO.frmLogin.resources
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD_T3_ESCRITORIO.frmMenuGerente.resources
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD_T3_ESCRITORIO.frmPersonal.resources
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD_T3_ESCRITORIO.frmValidarEliminarPersonal.resources
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD_T3_ESCRITORIO.frmValidarEliminarRuta.resources
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD_T3_ESCRITORIO.frmValidarEliminarVehiculo.resources
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD_T3_ESCRITORIO.Properties.Resources.resources
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD_T3_ESCRITORIO.frmReportes.resources
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD_T3_ESCRITORIO.frmVehiculos.resources
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD_T3_ESCRITORIO.frmRutas.resources
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD T3 ESCRITORIO.csproj.GenerateResource.cache
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD T3 ESCRITORIO.csproj.CoreCompileInputs.cache
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD T3 ESCRITORIO.csproj.CopyComplete
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD T3 ESCRITORIO.exe
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD T3 ESCRITORIO.pdb
+C:\Users\DISCO LOCAL\Desktop\RapidCargoEscritorio\SOWAD T3 ESCRITORIO\obj\Debug\SOWAD_T3_ESCRITORIO.frmEditarPersonal.resources
