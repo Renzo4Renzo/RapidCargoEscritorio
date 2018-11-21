@@ -217,12 +217,12 @@ namespace SOWAD_T3_ESCRITORIO
                 crearPersonal_tb_nombreUsuario.Text, crearPersonal_tb_contrasena.Text, (int)crearPersonal_cb_sucursal.SelectedValue, value);
             if (inserto)
             {
-                MessageBox.Show("Se agregó el personal");
+                MessageBox.Show("Se actualizó el personal");
                 this.Close();
             }
             else
             {
-                MessageBox.Show("Error al insertar personal");
+                MessageBox.Show("Error al actualizar personal");
             }
         }
     }
