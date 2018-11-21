@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Net.Http;
 using Newtonsoft.Json;
+using System.Globalization;
 
 namespace SOWAD_T3_ESCRITORIO
 {
@@ -162,6 +163,21 @@ namespace SOWAD_T3_ESCRITORIO
             validarEliminarVehiculo.Tag = this;
             validarEliminarVehiculo.Show(this);
 
+        }
+
+        private void btnModificarVehiculo_Click(object sender, EventArgs e)
+        {
+            if (vehiculos_dgv_listarVehiculos.SelectedRows.Count != 0)
+            {
+                DataGridViewRow vehiculo = this.vehiculos_dgv_listarVehiculos.SelectedRows[0];
+                string id = vehiculo.Cells["ID"].Value.ToString();
+                string nroPlaca = vehiculo.Cells["Placa"].Value.ToString();
+                float capacidad = float.Parse(vehiculo.Cells["Capacidad"].Value.ToString(), CultureInfo.InvariantCulture);
+                string tipove = vehiculo.Cells["TipoVehiculo"].Value.ToString();
+                frmModificarVehiculo modificar = new frmModificarVehiculo(id, nroPlaca, capacidad, tipove);
+                modificar.Tag = this;
+                modificar.Show(this);
+            }
         }
     }
 }
